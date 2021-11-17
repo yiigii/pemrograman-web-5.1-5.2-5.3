@@ -1,0 +1,53 @@
+.row {
+    width: 820px;
+    height: 500px;
+    margin: auto;
+}
+
+.column {
+    width: 200px;
+    height: 300px;
+    margin-left: 18px;
+}
+
+.lightgreen {
+    background-color: lightgreen;
+    width: 802px;
+    height: 100px;
+}
+
+.yellow {
+    background-color: yellow;
+    width: 170px;
+    height: 100px;
+    float: left;
+    z-index: 100;
+    position: absolute;
+    margin-block-start: 140px;
+}
+
+.yelloww {
+    background-color: yellow;
+    width: 170px;
+    height: 120px;
+    z-index: 100;
+    position: absolute;
+    margin-block-start: 10px;
+}
+
+.orage {
+    background-color: orange;
+    width: 620px;
+    height: 120px;
+    float: right;
+    margin-block-start: 10px;
+
+}
+
+.blue {
+    background-color: blue;
+    width: 620px;
+    height: 100px;
+    float: right;
+    margin-block-start: 10px;
+}
